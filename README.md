@@ -32,10 +32,13 @@ I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy. I'm 12 y.o and i like to pro
 
 <img align="left" alt="St0pcha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=St0pcha&show_icons=true&hide_border=true" />
 
+<br />
+<br />
+
+P.S: sorry for black icons, they are not visible on the dark theme
+
 [vkontakte]: https://vk.com/st0pcha
 [discord]: https://discord.gg/DG3k5w6QW3
 [telegram]: https://t.me/st0pcha
 [youtube]: https://www.youtube.com/channel/UCZdLQ20Z4NdNs1RwUmSZ07g
 [steam]: https://steamcommunity.com/id/st0p_04ka
-
-P.S: sorry for black icons, they are not visible on the dark theme

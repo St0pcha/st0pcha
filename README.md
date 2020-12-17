@@ -8,6 +8,7 @@ I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy. I'm 12 y.o and i like to pro
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vkontakte]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 <br />
 
@@ -26,15 +27,9 @@ I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy. I'm 12 y.o and i like to pro
 <br />
 <br />
 
-</details>
-
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="St0pcha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=St0pcha&show_icons=true&hide_border=true" />
+<img align="left" alt="St0pcha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=St0pcha&show_icons=true&hide_border=true" />
 
 [vkontakte]: https://vk.com/st0pcha
 [telegram]: https://t.me/st0pcha
 [youtube]: https://www.youtube.com/channel/UCZdLQ20Z4NdNs1RwUmSZ07g
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[steam]: https://steamcommunity.com/id/st0p_04ka

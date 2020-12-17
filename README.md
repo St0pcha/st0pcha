@@ -3,8 +3,7 @@
 # Hi everyone👋
 
 ### About Me:
-I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy. I'm 12 y.o and i like to programming at my spare time.
-Owner the MADE Project.
+I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy. I'm 12 y.o and i like to programming at my spare time.<br>Owner the MADE Project.
 
 ### Connect with me:
 
@@ -22,7 +21,7 @@ Owner the MADE Project.
 [<img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][discord]
 [<img align="left" alt="YArn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />][discord]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][discord]
-[<img align="left" alt="Chrome" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/chrome.svg" />][discord]
+[<img align="left" alt="Chrome" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][discord]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][discord]
 [<img align="left" alt="NotepadPlusPlus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notepadplusplus.svg" />][discord]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][discord]

@@ -3,15 +3,24 @@
 ### About Me
 I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy. I'm 12 y.o and i like to programming at my spare time.
 
-### Languages And Tools
-![](https://camo.githubusercontent.com/01a47d16f46c9a251acf847c5c746bb9af8e11111e96e18c3e47ca8d6b506770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d453944353444) | Currently I learning:
-![https://vk.com](https://camo.githubusercontent.com/fcbcbcbd6c62e62e2a67586c11a3870f53086f9df89fafd617e883175bcb8909/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d43266c6f676f436f6c6f723d363239364343)
-![](https://camo.githubusercontent.com/42b615d36d33a55f1d16b99c7822a98e4b5565b8bd5282f233dfa819252b2c0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d43253262253262266c6f676f436f6c6f723d363239364343)
-### Add Me
-[<img allign="left" alt="VKontakte" width="26px" src="https://camo.githubusercontent.com/4df3079ac933a33dd2da2d471b2626ce81bd92ce9b97a4c459e72497ad3b83a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d564b2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d566b266c6f676f436f6c6f723d34463744423" />][VKontakte]
+### Languages and Tools:
 
-[<img allign="left" alt="https://camo.githubusercontent.com/ef7d2872e5a114cea8da567c3333a6b59a46cdb9da71338fbf43bc308dc82994/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d323741304439" width="26px" src="https://camo.githubusercontent.com/ef7d2872e5a114cea8da567c3333a6b59a46cdb9da71338fbf43bc308dc82994/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d323741304439" />[https://t.me/st0pcha]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-[<img allign="left" alt="https://camo.githubusercontent.com/4265175248d85a2aee4730226e4cb9fcea51eb02140a8d675f77aa7d8d78d052/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d535445414d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d326435653931" width="26px" src="https://camo.githubusercontent.com/4265175248d85a2aee4730226e4cb9fcea51eb02140a8d675f77aa7d8d78d052/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d535445414d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d326435653931" />[https://steamcommunity.com/id/st0p_04ka]
-
-[VKontakte]: https://vk.com/st0pcha
+<br />
+<br />

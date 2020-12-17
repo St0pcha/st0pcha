@@ -1,18 +1,12 @@
-### Hi there 👋
+# Hi everyone👋
 
-<!--
-**St0pcha/st0pcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy. I'm 12 y.o and i like to programming at my spare time.
 
-Here are some ideas to get you started:
+### Language And Tools
+![Currently I learn C++](https://camo.githubusercontent.com/42b615d36d33a55f1d16b99c7822a98e4b5565b8bd5282f233dfa819252b2c0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d43253262253262266c6f676f436f6c6f723d363239364343)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Add Me
 
-[](https://camo.githubusercontent.com/097cce3006adefa4dc166339d1d8971a0a9981f3d9971284d5327f6be9e159fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c75747465722d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d343743354642)
+### My GitHub Stat's
+

@@ -17,7 +17,7 @@ src="https://camo.githubusercontent.com/4265175248d85a2aee4730226e4cb9fcea51eb02
 <br />
 <br />
 
-<a href="https://github.com/St0pcha" rel="follow"><img src="https://camo.githubusercontent.com/2e6d62485ddae1a28a5e07cc24d74bc445f64b3a4072e29c8a5c4347b07c31d9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7468656c696665776f726d2673686f775f69636f6e733d74727565267468656d653d6461726b" alt="STATS" data-canonical-src="https://github-readme-stats.vercel.app/api?username=St0pcha&amp;show_icons=true&amp;theme=dark" style="max-width:100%;">
+<a href="https://github.com/St0pcha" rel="follow"><img src="https://camo.githubusercontent.com/2e6d62485ddae1a28a5e07cc24d74bc445f64b3a4072e29c8a5c4347b07c31d9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7468656c696665776f726d2673686f775f69636f6e733d74727565267468656d653d6461726b" alt="STATS" data-canonical-src="https://github-readme-stats.vercel.app/api?username=St0pcha&show_icons=true&theme=dark" style="max-width:100%;">
 
 <br />
 <br />

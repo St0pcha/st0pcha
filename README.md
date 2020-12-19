@@ -7,23 +7,15 @@ I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy. I'm 12 y.o and i like to pro
 
 ### Connect with me:
 
-[<img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vkontakte]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
+[<img align="left" alt="VKontakte" width="22px" src="https://camo.githubusercontent.com/4df3079ac933a33dd2da2d471b2626ce81bd92ce9b97a4c459e72497ad3b83a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d564b2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d566b266c6f676f436f6c6f723d344637444233" />][vkontakte]
+[<img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/ef7d2872e5a114cea8da567c3333a6b59a46cdb9da71338fbf43bc308dc82994/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d323741304439" />][telegram]
+[<img align="left" alt="Steam" width="22px" src=https://camo.githubusercontent.com/4265175248d85a2aee4730226e4cb9fcea51eb02140a8d675f77aa7d8d78d052/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d535445414d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d326435653931" />][steam]
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
-[<img align="left" alt="JavaScript & Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][discord]
-[<img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />][discord]
-[<img align="left" alt="YArn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />][discord]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][discord]
-[<img align="left" alt="Chrome" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][discord]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][discord]
-[<img align="left" alt="NotepadPlusPlus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notepadplusplus.svg" />][discord]
+[<img align="left" alt="JavaScript" width="26px" src="https://camo.githubusercontent.com/01a47d16f46c9a251acf847c5c746bb9af8e11111e96e18c3e47ca8d6b506770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d453944353444" />][discord]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][discord]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][discord]
 

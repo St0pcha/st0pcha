@@ -17,7 +17,7 @@ src="https://camo.githubusercontent.com/4265175248d85a2aee4730226e4cb9fcea51eb02
 <br />
 <br />
 
-![STATS](https://github-readme-stats.vercel.app/api?username=thelifeworm&show_icons=true&theme=dark)
+![STATS](https://github-readme-stats.vercel.app/api?username=St0pcha&show_icons=true&theme=dark)
 
 <br />
 <br />

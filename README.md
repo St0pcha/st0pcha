@@ -5,9 +5,9 @@ I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy. I'm 12 y.o and i like to pro
 
 ### Connect with me:
 
-![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&amp&logo=Vk&amp&logoColor=4F7DB3)](https://vk.com/st0pcha)  
-![Telegram](https://img.shields.io/badges-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/st0pcha)
-![Steam](https://img.shields.io/badge/-STEAM-090909?style=for-the-badge&amp;logo=steam&amp;logoColor=2d5e91)](https://steamcommunity.com/id/st0p_04ka)  
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&amp&logo=Vk&amp&logoColor=4F7DB3)](https://vk.com/st0pcha)  
+[![Telegram](https://img.shields.io/badges-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/st0pcha)
+[![Steam](https://img.shields.io/badge/-STEAM-090909?style=for-the-badge&amp;logo=steam&amp;logoColor=2d5e91)](https://steamcommunity.com/id/st0p_04ka)  
 
 ### Languages:
 

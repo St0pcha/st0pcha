@@ -3,7 +3,6 @@
 ### About Me:
 I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy, 12 y.o and I like to programming at my spare time.<br>
 Owner the MADE Project.<br>
-I<3[![Julia](https://img.shields.io/badge/-Julia-090909?style=for-the-badge&amp;logo=Julia&amp;logoColor=2d5e91)](https://github.com/St0pcha)
 
 ### Connect with me:
 

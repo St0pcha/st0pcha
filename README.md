@@ -9,7 +9,7 @@ I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy. I'm 12 y.o and i like to pro
 
 ### Languages:
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&amp;logo=JavaScript&amp;logoColor=2d5e91)](https://github.com/St0pcha)  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&amp;logo=JavaScript&amp;logoColor=2d5e91)](https://github.com/St0pcha)
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&amp;logo=C%2b%2b&amp;logoColor=2d5e91)](https://github.com/St0pcha)  
 [![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&amp;logo=C%2b%2b&amp;logoColor=2d5e91)](https://github.com/St0pcha)
 [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&amp;logo=C%2b%2b&amp;logoColor=2d5e91)](https://github.com/St0pcha)

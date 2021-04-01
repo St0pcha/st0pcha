@@ -6,9 +6,15 @@ Owner the MADE Project.<br>
 
 ### Connect with me:
 
-<img align="left" alt="VK" width="26px" src="https://gspics.org/images/2021/04/01/0ClfnN.png" />
+<a href="https://vk.com/st0pcha">
+  <img align="left" alt="VK" width="26px" src="https://gspics.org/images/2021/04/01/0ClfnN.png" />
+</a>
+<a href="https://t.me/st0pcha">
 <img align="left" alt="Telegram" width="26px" src="https://gspics.org/images/2021/04/01/0CljIs.png" />
+</a>
+<a href="https://steamcommunity.com/id/st0p_04ka/">
 <img align="left" alt="Steam" width="26px" src="https://gspics.org/images/2021/04/01/0ClzjK.png" />
+</a>
 
 <br />
 

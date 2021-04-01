@@ -1,15 +1,14 @@
 # Hi everyone👋
 
 ### About Me:
-I'm Stanislav Simahin a.k.a St0pcha / St0pchanskiy, 12 y.o and I like to programming at my spare time.<br>
+I'm Stanislav (ST0PCHA)Simahin, 12 y.o and I like to programming at my spare time.<br>
 Owner the MADE Project.<br>
 
 ### Connect with me:
 
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&amp&logo=Vk&amp&logoColor=4F7DB3)](https://vk.com/st0pcha) [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/st0pcha) [![Steam](https://img.shields.io/badge/-STEAM-090909?style=for-the-badge&amp;logo=steam&amp;logoColor=2d5e91)](https://steamcommunity.com/id/st0p_04ka)  
+<img align="left" alt="VK" width="26px" src="https://gspics.org/images/2021/04/01/0ClfnN.png" />
 
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://gspics.org/images/2021/04/01/0Cl7Ya.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://i.imgur.com/3u1wzwE.png" />

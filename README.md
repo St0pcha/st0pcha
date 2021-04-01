@@ -7,6 +7,8 @@ Owner the MADE Project.<br>
 ### Connect with me:
 
 <img align="left" alt="VK" width="26px" src="https://gspics.org/images/2021/04/01/0ClfnN.png" />
+<img align="left" alt="Telegram" width="26px" src="https://gspics.org/images/2021/04/01/0CljIs.png" />
+<img align="left" alt="Steam" width="26px" src="https://gspics.org/images/2021/04/01/0ClzjK.png" />
 
 
 ### Languages and Tools:

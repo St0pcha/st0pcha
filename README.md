@@ -20,3 +20,4 @@ Owner the MADE Project.<br>
 <br />
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=St0pcha&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=St0pcha&theme=dark)

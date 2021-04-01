@@ -11,7 +11,7 @@ Owner the MADE Project.<br>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="PyCharm" width="26px" src="https://i.imgur.com/ScJm34f.png" />
+<img align="left" alt="PyCharm" width="26px" src="https://gspics.org/images/2021/04/01/0Cl7Ya.png" />
 <img align="left" alt="Discord.JS" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="Node.JS" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 

@@ -12,7 +12,6 @@ Owner the MADE Project.<br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://gspics.org/images/2021/04/01/0Cl7Ya.png" />
-<img align="left" alt="Discord.JS" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="Node.JS" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
@@ -20,4 +19,4 @@ Owner the MADE Project.<br>
 <br />
 <br />
 
-![STATS](https://github-readme-stats.vercel.app/api?username=St0pcha&show_icons=true&theme=dark)
+![Statistics](https://github-readme-stats.vercel.app/api?username=St0pcha&show_icons=true&theme=dark)

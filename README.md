@@ -3,7 +3,7 @@
 ### About Me:
 I'm Stanislav (ST0PCHA) Simahin, 13 y.o and I like to programming at my spare time.<br>
 Owner the MADE Project.<br>
-<br>Birthday date: 14.04
+<br>Birthday date: 14.04.2008
 
 ### Connect with me:
 

@@ -1,11 +1,12 @@
 # Hi everyone👋
 
-### About Me:
-I'm Stanislav (ST0PCHA) Simahin, 13 y.o and I like to programming at my spare time.<br>
-Owner the MADE Project.<br>
-<br>Birthday date: 14.04.2008
+### 👀 About Me:
+I'm Stanislav (ST0PCHA) Simahin and I like to programming at my spare time.<br>
+Owner of the MADE Project.<br>
+- ☕️ Currently learning Java.
 
-### Connect with me:
+
+### 💬 Connect with me:
 
 <a href="https://vk.com/st0pcha">
   <img align="left" alt="VK" width="26px" src="https://gspics.org/images/2021/04/01/0ClfnN.png" />
@@ -19,11 +20,12 @@ Owner the MADE Project.<br>
 
 <br />
 
-### Languages and Tools:
-<img align="left" alt="PyCharm" width="26px" src="https://gspics.org/images/2021/04/01/0Cl7Ya.png" />
+### ⚙️ Languages and Tools:
+<img align="left" alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://i.imgur.com/4pIzF9V.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="Node.JS" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
+<img align="left" alt="SQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png" />
 
 <br />
 <br />
